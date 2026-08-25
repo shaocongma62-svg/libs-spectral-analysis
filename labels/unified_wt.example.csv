@@ -1,0 +1,2 @@
+sample_id,dataset,category,is_verified,Fe,Ca,Si,Mg,Al,Zn,Mn,Ti,C,S,P,K,Na,Cl
+EXAMPLE-001,B,industrial_dust,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0

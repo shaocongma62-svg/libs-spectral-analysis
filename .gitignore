@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Local environments and editor files
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Raw experimental and third-party data (not distributed with this repository)
+NASA data/
+20260422data/
+20260422_processed/
+20260422数据标注/
+2026.07.16org/
+2026.07.16wl_corr/
+labels/unified_wt.csv
+
+# Generated artifacts and large local files
+analysis-output/
+output/
+saved_models/
+scratch/
+_pylibs/
+_tmppip/
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.xlsx
+*.xls
+*.docx
+*.pptx
+
+# Unrelated exploratory work and local planning artifacts
+archive/
+analyze_floquet.py
+ep_*.py
+fermi_*.py
+jordan_ep.py
+plot_ep_loop.py
+refine_floquet.py
+study_*.py
+task_plan.md
+notes.md
+project_document_review.md
+*.png

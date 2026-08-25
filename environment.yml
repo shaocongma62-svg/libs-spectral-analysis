@@ -1,0 +1,19 @@
+name: dl1
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy>=1.23.0
+  - pandas>=1.5.0
+  - scipy>=1.9.0
+  - scikit-learn>=1.2.0
+  - openpyxl>=3.0.10
+  - xlrd>=2.0.1
+  - pytorch>=2.0.0
+  - torchvision
+  - cpuonly
+  - pip
+  - pip:
+      - PyWavelets>=1.4.0
