@@ -51,3 +51,8 @@ task_plan.md
 notes.md
 project_document_review.md
 *.png
+
+# Legacy scripts that embed local assay-derived concentrations
+label_20260422_dataset.py
+train_regression_features.py
+train_regression_pipeline.py
